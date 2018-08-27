@@ -1,3 +1,5 @@
-__pycache__/
-.idea/
+flask-mailroom
+*.pyc
+__pycache__
+.idea
 my_database.db
